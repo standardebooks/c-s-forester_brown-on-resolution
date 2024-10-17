@@ -35,14 +35,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85119251</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">During World War I, a marooned British sailor attempts to delay repairs of a German battlecruiser.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Albert Brown was fated to enlist in the British navy, his destiny set by his unusual birth and upbringing. While on operations in the Pacific during the first World War, his ship is sunk, but he survives, and is taken on board the German cruiser that sank them. It too has suffered damage, and heads to the Galapagos Islands to effect repairs. In this unlikely and hostile setting, Brown—alone—pits himself against the German ship, seeking to delay its progress while British naval reinforcements make their way to the region.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Brown on Resolution&lt;/i&gt; was among the first of &lt;a href="https://standardebooks.org/ebooks/c-s-forester"&gt;C. S. Forester’s&lt;/a&gt; works of nautical fiction for which he later became famous, largely through his Horatio Hornblower series. In this novel, he weaves together the gritty social themes of his earlier work with meticuluous accounts of naval adventure. It has twice been adapted for film.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170457</dc:source>
 		<dc:source>https://archive.org/details/brownonresolutio00fore</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brown_on_Resolution</meta>
@@ -53,10 +53,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/C._S._Forester</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50024850</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William James Aylward</dc:contributor>
+		<meta property="file-as" refines="#artist">Aylward, William James</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_James_Aylward</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82083623</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
