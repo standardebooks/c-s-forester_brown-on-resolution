@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>t-060</code>
+			<reason>False positive: this is not an old style Bible citation, but a naval gun type.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
