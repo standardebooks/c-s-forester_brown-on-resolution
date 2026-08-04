@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85119251</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>During World War I, a captured British sailor attempts to delay repairs of a German battlecruiser.</dc:abstract>
+		<meta property="schema:abstract">During World War I, a captured British sailor attempts to delay repairs of a German battlecruiser.</meta>
 		<dc:description>
 			&lt;p&gt;Albert Brown was fated to enlist in the British navy, his destiny set by his unusual birth and upbringing. While on operations in the Pacific during the first World War, his ship is sunk—but he survives, and is taken on board the German cruiser that sank them. It too has suffered damage, and heads to the Galapagos Islands to effect repairs. In this unlikely and hostile setting, Brown, alone, pits himself against the German ship and its crew, seeking to delay its progress while British naval reinforcements make their way to the region.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/c-s-forester"&gt;C. S. Forester&lt;/a&gt; became famous for his Horatio Hornblower series, but &lt;i&gt;Brown on Resolution&lt;/i&gt; is among the first of his works of nautical fiction. In it he weaves together the gritty social themes of his earlier work with meticulous accounts of naval adventure.&lt;/p&gt;
